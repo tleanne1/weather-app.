@@ -1,0 +1,25 @@
+body {
+  background: url("https://wallpapers.com/images/hd/lost-in-space-and-a-planet-zo2s5hp9fd3r6qug.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.weather-app-wrapper {
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+.weather-app {
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  background: linear-gradient(
+    91.7deg,
+    rgb(50, 25, 79) -4.3%,
+    rgb(122, 101, 149) 101.8%
+  );
+  opacity: 0.9;
+}
