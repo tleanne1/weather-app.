@@ -23,3 +23,7 @@ body {
   );
   opacity: 0.9;
 }
+
+form {
+  text-align: center;
+}
