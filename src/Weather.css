@@ -24,6 +24,49 @@ body {
   opacity: 0.9;
 }
 
-form {
-  text-align: center;
+.navigation {
+  display: inline;
+  margin: 20px;
+  font-size: 20px;
+}
+
+.search-form {
+  text-align: left;
+}
+
+a {
+  color: #dbd8e3;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.weather-summary-header {
+  color: #dbd8e3;
+}
+
+.weather-detail {
+  font-size: 15px;
+}
+
+.weather-temp {
+  color: #dbd8e3;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.unit {
+  font-size: 10px;
+  padding: 5px;
+}
+
+h1 {
+  margin-top: 40px;
+  line-height: 0px;
+}
+
+.weather-summary {
+  margin-top: 20px;
 }
