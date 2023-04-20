@@ -31,7 +31,6 @@ function App() {
             <div className="weather-summary">
               <div className="weather-summary-header">
                 <h1>Lisbon</h1>
-                <br />
                 <div className="weather-detail">Wednesday 20:20</div>
                 <div className="weather-detail">Clear</div>
               </div>
