@@ -1,7 +1,6 @@
 import "./App.css";
 import WeatherSearch from "./WeatherSearch";
 import ReactAnimatedWeather from "react-animated-weather";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
